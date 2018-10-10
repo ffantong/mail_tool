@@ -1,0 +1,289 @@
+# depslib dependency file v1.0
+1517925354 source:e:\code blocks\mail\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"sock.h"
+	"mail.h"
+
+1517925845 source:e:\code blocks\mail\smtp.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"mail.h"
+
+1517832597 e:\code blocks\mail\mail.h
+
+1517829566 source:e:\code blocks\mail\sock.c
+	<windows.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<errno.h>
+	<sys/time.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<openssl/ssl.h>
+	<openssl/err.h>
+	"sock.h"
+	"mail.h"
+
+1517725847 e:\code blocks\mail\sock.h
+	<openssl/ssl.h>
+
+1209571892 c:\program files (x86)\gnuwin32\include\openssl\ssl.h
+	<openssl/e_os2.h>
+	<openssl/comp.h>
+	<openssl/bio.h>
+	<openssl/x509.h>
+	<openssl/crypto.h>
+	<openssl/lhash.h>
+	<openssl/buffer.h>
+	<openssl/pem.h>
+	<openssl/hmac.h>
+	<openssl/kssl.h>
+	<openssl/safestack.h>
+	<openssl/symhacks.h>
+	<openssl/ssl2.h>
+	<openssl/ssl3.h>
+	<openssl/tls1.h>
+	<openssl/dtls1.h>
+	<openssl/ssl23.h>
+
+1134928626 c:\program files (x86)\gnuwin32\include\openssl\e_os2.h
+	<openssl/opensslconf.h>
+
+1219434398 c:\program files (x86)\gnuwin32\include\openssl\opensslconf.h
+
+1207136244 c:\program files (x86)\gnuwin32\include\openssl\comp.h
+	<openssl/crypto.h>
+
+1115582072 c:\program files (x86)\gnuwin32\include\openssl\crypto.h
+	<stdlib.h>
+	<openssl/e_os2.h>
+	<stdio.h>
+	<openssl/stack.h>
+	<openssl/safestack.h>
+	<openssl/opensslv.h>
+	<openssl/ossl_typ.h>
+	<openssl/ebcdic.h>
+	<openssl/symhacks.h>
+
+1096907410 c:\program files (x86)\gnuwin32\include\openssl\stack.h
+
+1210375030 c:\program files (x86)\gnuwin32\include\openssl\safestack.h
+	<openssl/stack.h>
+
+1211960234 c:\program files (x86)\gnuwin32\include\openssl\opensslv.h
+
+1205278686 c:\program files (x86)\gnuwin32\include\openssl\ossl_typ.h
+	<openssl/e_os2.h>
+
+949368074 c:\program files (x86)\gnuwin32\include\openssl\ebcdic.h
+	<sys/types.h>
+
+1207989602 c:\program files (x86)\gnuwin32\include\openssl\symhacks.h
+	<openssl/e_os2.h>
+
+1207136242 c:\program files (x86)\gnuwin32\include\openssl\bio.h
+	<openssl/e_os2.h>
+	<stdio.h>
+	<stdarg.h>
+	<openssl/crypto.h>
+
+1207134710 c:\program files (x86)\gnuwin32\include\openssl\x509.h
+	<openssl/e_os2.h>
+	<openssl/symhacks.h>
+	<openssl/buffer.h>
+	<openssl/evp.h>
+	<openssl/bio.h>
+	<openssl/stack.h>
+	<openssl/asn1.h>
+	<openssl/safestack.h>
+	<openssl/ec.h>
+	<openssl/ecdsa.h>
+	<openssl/ecdh.h>
+	<openssl/rsa.h>
+	<openssl/dsa.h>
+	<openssl/dh.h>
+	<openssl/sha.h>
+	<openssl/ossl_typ.h>
+	<openssl/x509_vfy.h>
+	<openssl/pkcs7.h>
+
+1114541594 c:\program files (x86)\gnuwin32\include\openssl\buffer.h
+	<openssl/ossl_typ.h>
+	<stddef.h>
+	<sys/types.h>
+
+1177372204 c:\program files (x86)\gnuwin32\include\openssl\evp.h
+	<openssl/opensslconf.h>
+	<openssl/opensslconf.h>
+	<openssl/ossl_typ.h>
+	<openssl/symhacks.h>
+	<openssl/bio.h>
+	<openssl/objects.h>
+
+1102204988 c:\program files (x86)\gnuwin32\include\openssl\objects.h
+	<openssl/obj_mac.h>
+	<openssl/bio.h>
+	<openssl/asn1.h>
+
+1207133118 c:\program files (x86)\gnuwin32\include\openssl\obj_mac.h
+
+1211285428 c:\program files (x86)\gnuwin32\include\openssl\asn1.h
+	<time.h>
+	<openssl/e_os2.h>
+	<openssl/bio.h>
+	<openssl/stack.h>
+	<openssl/safestack.h>
+	<openssl/symhacks.h>
+	<openssl/ossl_typ.h>
+	<openssl/bn.h>
+
+1209754038 c:\program files (x86)\gnuwin32\include\openssl\bn.h
+	<openssl/e_os2.h>
+	<stdio.h>
+	<openssl/ossl_typ.h>
+	<assert.h>
+
+1179827284 c:\program files (x86)\gnuwin32\include\openssl\ec.h
+	<openssl/opensslconf.h>
+	<openssl/asn1.h>
+	<openssl/symhacks.h>
+	<openssl/bn.h>
+
+1159991702 c:\program files (x86)\gnuwin32\include\openssl\ecdsa.h
+	<openssl/opensslconf.h>
+	<openssl/ec.h>
+	<openssl/ossl_typ.h>
+	<openssl/bn.h>
+
+1116238260 c:\program files (x86)\gnuwin32\include\openssl\ecdh.h
+	<openssl/opensslconf.h>
+	<openssl/ec.h>
+	<openssl/ossl_typ.h>
+	<openssl/bn.h>
+
+1175040860 c:\program files (x86)\gnuwin32\include\openssl\rsa.h
+	<openssl/asn1.h>
+	<openssl/bio.h>
+	<openssl/crypto.h>
+	<openssl/ossl_typ.h>
+	<openssl/bn.h>
+
+1159442940 c:\program files (x86)\gnuwin32\include\openssl\dsa.h
+	<openssl/e_os2.h>
+	<openssl/bio.h>
+	<openssl/crypto.h>
+	<openssl/ossl_typ.h>
+	<openssl/bn.h>
+	<openssl/dh.h>
+
+1159442940 c:\program files (x86)\gnuwin32\include\openssl\dh.h
+	<openssl/e_os2.h>
+	<openssl/bio.h>
+	<openssl/ossl_typ.h>
+	<openssl/bn.h>
+
+1166799896 c:\program files (x86)\gnuwin32\include\openssl\sha.h
+	<openssl/e_os2.h>
+	<stddef.h>
+
+1164631014 c:\program files (x86)\gnuwin32\include\openssl\x509_vfy.h
+	<openssl/x509.h>
+	<openssl/opensslconf.h>
+	<openssl/lhash.h>
+	<openssl/bio.h>
+	<openssl/crypto.h>
+	<openssl/symhacks.h>
+
+1067399824 c:\program files (x86)\gnuwin32\include\openssl\lhash.h
+	<openssl/e_os2.h>
+	<stdio.h>
+	<openssl/bio.h>
+
+1123193404 c:\program files (x86)\gnuwin32\include\openssl\pkcs7.h
+	<openssl/asn1.h>
+	<openssl/bio.h>
+	<openssl/e_os2.h>
+	<openssl/symhacks.h>
+	<openssl/ossl_typ.h>
+
+1207263832 c:\program files (x86)\gnuwin32\include\openssl\pem.h
+	<openssl/e_os2.h>
+	<openssl/bio.h>
+	<openssl/stack.h>
+	<openssl/evp.h>
+	<openssl/x509.h>
+	<openssl/pem2.h>
+	<openssl/symhacks.h>
+
+1025197588 c:\program files (x86)\gnuwin32\include\openssl\pem2.h
+
+1086010102 c:\program files (x86)\gnuwin32\include\openssl\hmac.h
+	<openssl/opensslconf.h>
+	<openssl/evp.h>
+
+1113090954 c:\program files (x86)\gnuwin32\include\openssl\kssl.h
+	<openssl/opensslconf.h>
+	<stdio.h>
+	<ctype.h>
+	<krb5.h>
+
+1005351388 c:\program files (x86)\gnuwin32\include\openssl\ssl2.h
+
+1192147230 c:\program files (x86)\gnuwin32\include\openssl\ssl3.h
+	<openssl/comp.h>
+	<openssl/buffer.h>
+	<openssl/evp.h>
+	<openssl/ssl.h>
+	<openssl/pq_compat.h>
+
+1190046080 c:\program files (x86)\gnuwin32\include\openssl\pq_compat.h
+	<openssl/opensslconf.h>
+	<openssl/bn.h>
+
+1209571892 c:\program files (x86)\gnuwin32\include\openssl\tls1.h
+	<openssl/buffer.h>
+
+1191220128 c:\program files (x86)\gnuwin32\include\openssl\dtls1.h
+	<openssl/buffer.h>
+	<openssl/pqueue.h>
+
+1117492466 c:\program files (x86)\gnuwin32\include\openssl\pqueue.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<openssl/pq_compat.h>
+
+914234150 c:\program files (x86)\gnuwin32\include\openssl\ssl23.h
+
+1207263830 c:\program files (x86)\gnuwin32\include\openssl\err.h
+	<openssl/e_os2.h>
+	<stdio.h>
+	<stdlib.h>
+	<openssl/ossl_typ.h>
+	<openssl/bio.h>
+	<openssl/lhash.h>
+	<errno.h>
+
+1517729755 e:\code blocks\mail\file_utils.h
+	"mail.h"
+
+1517924010 source:e:\code blocks\mail\file_utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mail.h"
+	"map.h"
+
+1517822394 e:\code blocks\mail\map.h
+
+1517829939 source:e:\code blocks\mail\map.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"map.h"
+
